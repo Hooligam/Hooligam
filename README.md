@@ -60,6 +60,8 @@
 <div align="center">
   <a href="www.linkedin.com/in/assuncaoelias" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="assuncaoelias" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/assuncaoelias?trk=profile-badge">Elias Assunção</a></div>
+              
   </a>
 </div>
 
